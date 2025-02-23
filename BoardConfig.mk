@@ -103,3 +103,6 @@ TW_USE_TOOLBOX := true
 
 # System prop
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
+
+# fstab
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery.fstab
